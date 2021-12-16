@@ -38,7 +38,7 @@ function App() {
             <About></About>
           </>
         ) : (
-          <ContactForm></ContactForm>
+          <Contact></Contact>
         )}
       </main>
     </div>
